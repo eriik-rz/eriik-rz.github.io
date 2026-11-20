@@ -2,7 +2,7 @@
 
 Desarrollador de software: PHP/Laravel, React y PostgreSQL, y agentes de IA con Claude Code.
 
-### [🌐 Ver mi portfolio: eriik-rz.github.io](https://eriik-rz.github.io)
+### [Ver mi portfolio: eriik-rz.github.io →](https://eriik-rz.github.io)
 
 Se abre en el navegador, sin descargar nada. Ahí están mis proyectos, mi CV en PDF y mis enlaces.
 
