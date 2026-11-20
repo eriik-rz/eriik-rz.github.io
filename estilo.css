@@ -169,3 +169,6 @@ h1 { font-size: clamp(40px, 7vw, 72px); font-weight: 800; }
   .desliza .ancho { min-width: 760px; }
   .desliza::after { content: "desliza →"; display: block; font: 12px var(--mono); color: var(--muted); padding-top: 6px; position: sticky; left: 0; }
 }
+
+.con-ia { font-size: 15px; border-left: 3px solid var(--blue); padding-left: 12px; }
+.con-ia a { color: var(--blue); font-weight: 600; }
