@@ -18,7 +18,7 @@ Se abre en el navegador, sin descargar nada. Ahí están mis proyectos, mi CV en
 
 ## Enlaces
 
-[LinkedIn](https://www.linkedin.com/in/erik-ruiz-alos/) · [GitHub](https://github.com/eriik-rz) · [Ko-fi](https://ko-fi.com/eriik_rz)
+[LinkedIn](https://www.linkedin.com/in/erik-ruiz-alos/) · [GitHub](https://github.com/eriik-rz) · [Ko-fi](https://ko-fi.com/eriik_rz) · [TikTok](https://www.tiktok.com/@eriik_rz.dev) · [Instagram](https://www.instagram.com/eriik_rz.dev/)
 
 ## Cómo está hecha
 
