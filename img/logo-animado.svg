@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><style>
+/* Logo animado de eriik_rz.dev (2026-11-28): respira, el cursor parpadea y cada 7 s guiña el ojo. */
+.cara{animation:respira 5s ease-in-out infinite}
+.cursor{transform-box:fill-box;transform-origin:50% 50%;animation:guino 7s ease-in-out infinite}
+.cursor-luz{animation:parpadeo 1.4s steps(1) infinite}
+.sonrisa{transform-box:fill-box;transform-origin:50% 0%;animation:sonrie 7s ease-in-out infinite}
+@keyframes respira{0%,100%{transform:translateY(0)}50%{transform:translateY(-0.8px)}}
+@keyframes guino{0%,88%,100%{transform:scaleY(1)}90%,92%{transform:scaleY(.12)}94%{transform:scaleY(1)}}
+@keyframes parpadeo{0%{opacity:1}55%{opacity:.55}}
+@keyframes sonrie{0%,87%,97%,100%{transform:scale(1)}90%,93%{transform:scale(1.08,1.15)}}
+@media (prefers-reduced-motion:reduce){.cara,.cursor,.cursor-luz,.sonrisa{animation:none}}
+</style><rect x="-999" y="-999" width="9999" height="9999" fill="#0F1115"/><g class="cara"><path d="M22.208 36.58V33.676Q20.008 33.5 18.720999999999997 32.268Q17.433999999999997 31.036 17.433999999999997 29.1H20.733999999999998Q20.733999999999998 29.716 21.129999999999995 30.156Q21.525999999999996 30.596 22.208 30.772V26.922L21.965999999999998 26.856Q19.919999999999998 26.372 18.787 25.063000000000002Q17.654 23.754 17.654 21.862000000000002Q17.654 19.904 18.875 18.672Q20.095999999999997 17.44 22.208 17.264V14.36H23.637999999999998V17.242Q25.793999999999997 17.418 27.048 18.617Q28.302 19.816000000000003 28.302 21.73H25.002Q25.002 20.454 23.637999999999998 20.146V23.864L24.232 23.996000000000002Q26.366 24.48 27.465999999999998 25.745Q28.565999999999995 27.01 28.565999999999995 28.968Q28.565999999999995 30.97 27.234999999999996 32.245999999999995Q25.903999999999996 33.522 23.637999999999998 33.698V36.58ZM20.953999999999997 21.73Q20.953999999999997 23.05 22.208 23.512V20.146Q20.953999999999997 20.454 20.953999999999997 21.73ZM23.637999999999998 30.816Q24.407999999999998 30.706 24.836999999999996 30.266Q25.266 29.826 25.266 29.122Q25.266 28.44 24.836999999999996 27.934Q24.407999999999998 27.428 23.637999999999998 27.23Z" fill="#FF6B42"/><g class="cursor"><rect class="cursor-luz" x="38" y="19" width="6" height="15" fill="#F4F1EC"/></g><path class="sonrisa" d="M20 40 Q32 50 44 40" fill="none" stroke="#FF6B42" stroke-width="3.2" stroke-linecap="round"/></g></svg>
